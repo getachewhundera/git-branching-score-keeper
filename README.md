@@ -7,7 +7,7 @@ This exercise is intended to help practice git branching and merging using the C
 Start by selecting **Use this template** for this repository. Then **clone** the repository to your computer.
 
 ```
-npm install
+npm install //DONE
 npm start
 ```
 
