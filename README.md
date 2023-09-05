@@ -29,11 +29,11 @@ The client finally got back to us with answers to our questions. We can now make
 ### Base Mode
 
 - [ ] **feature-team-names** - Team names have been assigned, they should read **Team Tomato** and **Team Plum**
-   - After adding and committing, merge this branch back to `main`
+   - After adding and committing, merge this branch back to `main`  //DONE
 - [ ] **feature-page-title** - The title of the page should read **Battle of the Fruits**
-   - After adding and committing, merge this branch back to `main`
+   - After adding and committing, merge this branch back to `main`  //DONE
 - [ ] **feature-bg-colors** - The team divs (with classes `.team1` & `.team2`) should have background colors that match the team names
-   - After adding and committing, merge this branch back to `main`
+   - After adding and committing, merge this branch back to `main` 
 - [ ] **feature-footer** - Create a footer at the bottom of the page that reads 'Made by Tomatoes inc.'
    - After adding and committing, merge this branch back to `main`
 
